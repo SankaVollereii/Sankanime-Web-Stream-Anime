@@ -242,13 +242,13 @@ Login untuk menyimpan history tontonan Anda.
 
 <p align="center">
   <a href="https://www.sankavollerei.com/download/anime">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Explore+More+Projects;Anime+Tools+%26+API;Visit+SankaVollerei.com" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Download+Your+Favorite;Anime+%26+instantly;Visit+Downloader+anime" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.sankavollerei.com/download/anime">
-    <img src="https://img.shields.io/badge/🌟_Visit-Downloader-Anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌟_Visit-https://www.sankavollerei.com/download/anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
