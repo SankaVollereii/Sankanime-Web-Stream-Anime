@@ -1,0 +1,25 @@
+name: Sankanime Auto Update
+on:
+  schedule:
+  #  - cron: '0 */1 * * *' # 1 jam
+  - cron: '*/15 * * * *' # 15 menit
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update file timestamp
+        run: |
+          # Perintah ini akan membuat/menimpa file bernama 'last_auto_update.txt'
+          # dengan isi tanggal dan jam saat ini.
+          echo "Last auto update: $(date)" > last_auto_update.txt
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: 🤖 auto-update sankanime timestamp'
+          file_pattern: 'last_auto_update.txt'
+          commit_user_name: 'Plana AI'
+          commit_user_email: 'plana@sankanime.com'
