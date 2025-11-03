@@ -382,12 +382,12 @@ Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari su
   </a>
 </div>
 
----
-
 <p align="center">
   This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.<br/>
   Proyek ini dilisensikan di bawah Lisensi MIT - lihat file <a href="LICENSE">LICENSE</a> untuk detailnya.
 </p>
+
+---
 
 <footer align="center">
   <p>© 2024-2025 Sankanime • All rights reserved</p>
