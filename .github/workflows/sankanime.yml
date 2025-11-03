@@ -19,6 +19,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Plana AI Auto Update'
-          file_pattern: '.github/last_auto_update.txt'
+          file_pattern: 'last_auto_update.txt'
           commit_user_name: 'Plana AI'
           commit_user_email: 'plana@sankanime.com'
