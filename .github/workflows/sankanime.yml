@@ -14,14 +14,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: Update file timestamp
         run: |
-          # Perintah ini akan membuat/menimpa file bernama 'last_auto_update.txt'
-          # dengan isi tanggal dan jam saat ini.
           echo "Last auto update: $(date)" > last_auto_update.txt
-
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'chore: 🤖 auto-update sankanime timestamp'
+          commit_message: 'chore: Sankanime Streaming Anime'
           file_pattern: 'last_auto_update.txt'
           commit_user_name: 'Plana AI'
           commit_user_email: 'plana@sankanime.com'
