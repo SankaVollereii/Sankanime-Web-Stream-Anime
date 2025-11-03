@@ -162,7 +162,7 @@ High-quality 1080p HD video for the best viewing experience.
 **⏩ Auto Skip Intro**  
 Automatically skip intros to go straight to the main content.
 
-**🌐 5-8 Server Options**  
+**🌐 5-10 Server Options**  
 Super fast servers with 5-8 alternative server choices.
 
 **📚 Complete Anime Collection**  
