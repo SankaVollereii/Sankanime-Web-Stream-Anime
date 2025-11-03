@@ -289,6 +289,15 @@ If you encounter any issues or have questions, feel free to reach out through ou
 ### 🇮🇩 Butuh Bantuan?
 Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui formulir kontak di website kami.
 
+### ☕ Donate me
+Support the development and server costs:
+
+<p align="center">
+  <a href="https://sociabuzz.com/sankanime/tribe">
+    <img src="https://img.shields.io/badge/Donate-Support_Development-FF6B6B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
