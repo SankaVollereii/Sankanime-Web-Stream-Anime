@@ -423,12 +423,13 @@ Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari su
 
 <footer align="center">
   <p>© 2024-2025 Sankanime • All rights reserved</p>
-  <p>Developed by <a href="https://github.com/SankaVollereii">SankaVollereii</a></p>
   <p>
+    Plana AI Auto Update
     <a href="https://github.com/SankaVollereii/Sankanime-Web-Stream-Anime/actions/workflows/Sankanime.yml">
-      <img src="https://github.com/SankaVollereii/Sankanime-Web-Stream-Anime/actions/workflows/Sankanime.yml/badge.svg" alt="Plana AI Status">
+      <img src="https://github.com/SankaVollereii/Sankanime-Web-Stream-Anime/actions/workflows/Sankanime.yml/badge.svg" alt="Plana AI Status" style="vertical-align: middle;">
     </a>
   </p>
+  <p>Developed by <a href="https://github.com/SankaVollereii">SankaVollereii</a></p>
 </footer>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
