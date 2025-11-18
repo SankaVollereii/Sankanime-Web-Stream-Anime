@@ -1,4 +1,4 @@
-name: Plana AI
+name: Plana AI Auto Update
 on:
   schedule:
   #  - cron: '0 */1 * * *' # 1 jam
