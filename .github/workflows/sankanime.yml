@@ -16,7 +16,7 @@ jobs:
         run: |
           export TZ='Asia/Jakarta'
           TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
-          STATUS=$(curl -o /dev/null -s -w "%{http_code}" https://sankanime.com)
+          STATUS=$(curl -A "Plana-AI" -o /dev/null -s -w "%{http_code}" https://sankanime.com)
           
           if [ "$STATUS" == "200" ]; then
             MSG="ONLINE (200 OK)"
