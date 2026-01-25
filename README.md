@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sfile.co/axqJw4kohAp">
+  <a href="https://sfile.co/x5BkCqhDFua">
     <img src="https://img.shields.io/badge/📱_Download-Android_APK-00D9FF?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <a href="https://www.sankavollerei.com/download/anime">
@@ -125,7 +125,7 @@
 
 </div>
 
-1. Click **[Download APK](https://sfile.co/axqJw4kohAp)**
+1. Click **[Download APK](https://sfile.co/x5BkCqhDFua)**
 2. Allow installation from unknown sources in your device settings
 3. Open the downloaded APK file
 4. Follow the installation prompts
@@ -137,7 +137,7 @@
 
 </div>
 
-1. Klik **[Download APK](https://sfile.co/axqJw4kohAp)**
+1. Klik **[Download APK](https://sfile.co/x5BkCqhDFua)**
 2. Izinkan instalasi dari sumber tidak dikenal di pengaturan perangkat
 3. Buka file APK yang telah diunduh
 4. Ikuti petunjuk instalasi
