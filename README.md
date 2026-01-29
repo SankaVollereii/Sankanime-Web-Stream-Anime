@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sfile.co/x5BkCqhDFua">
+  <a href="https://sfile.co/2owGYl3k9ve">
     <img src="https://img.shields.io/badge/📱_Download-Android_APK-00D9FF?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <a href="https://www.sankavollerei.com/download/anime">
@@ -125,7 +125,7 @@
 
 </div>
 
-1. Click **[Download APK](https://sfile.co/x5BkCqhDFua)**
+1. Click **[Download APK](https://sfile.co/2owGYl3k9ve)**
 2. Allow installation from unknown sources in your device settings
 3. Open the downloaded APK file
 4. Follow the installation prompts
@@ -137,7 +137,7 @@
 
 </div>
 
-1. Klik **[Download APK](https://sfile.co/x5BkCqhDFua)**
+1. Klik **[Download APK](https://sfile.co/2owGYl3k9ve)**
 2. Izinkan instalasi dari sumber tidak dikenal di pengaturan perangkat
 3. Buka file APK yang telah diunduh
 4. Ikuti petunjuk instalasi
@@ -433,4 +433,3 @@ Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari su
 </footer>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
-
