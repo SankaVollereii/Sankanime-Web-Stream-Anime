@@ -24,10 +24,10 @@
 
 <p align="center">
   <a href="https://link.sankanime.com">
-    <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime.com-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime-FF6B6B?style=for-the-badge" />
   </a>
   <a href="https://v4.sankanime.com/">
-    <img src="https://img.shields.io/badge/🔄_SankaFlix-4ECDC4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🐉_Drachin_Site-SankaFlix-4ECDC4?style=for-the-badge" />
   </a>
 </p>
 
