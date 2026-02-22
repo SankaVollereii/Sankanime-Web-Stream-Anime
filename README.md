@@ -351,6 +351,9 @@ Support the development and server costs:
   <a href="https://t.me/OnlySankaaa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://sankanime.com/contactcs">
+    <img src="https://img.shields.io/badge/Contact_Me-%232B2A3C.svg?style=for-the-badge" alt="Contact Me" />
+  </a>
 </p>
 
 ---
