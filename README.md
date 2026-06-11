@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://sankanime.com">
+  <a href="https://sankanime.web.id">
     <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=%F0%9F%8E%8C+Welcome+to+Sankanime;%E2%9C%A8+Your+Ultimate+Anime+Destination" alt="Typing SVG" />
   </a>
 </p>
@@ -23,10 +23,10 @@
 ## 🌐 Quick Links / Link Cepat
 
 <p align="center">
-  <a href="https://link.sankanime.com">
+  <a href="https://link.sankanime.web.id">
     <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime-FF6B6B?style=for-the-badge" />
   </a>
-  <a href="https://v4.sankanime.com/">
+  <a href="https://v4.sankanime.web.id/">
     <img src="https://img.shields.io/badge/🐉_Drachin_Site-SankaFlix-4ECDC4?style=for-the-badge" />
   </a>
 </p>
@@ -35,7 +35,7 @@
   <a href="https://sfile.co/SkziZzpEBS9">
     <img src="https://img.shields.io/badge/📱_Download-Android_APK-00D9FF?style=for-the-badge&logo=android&logoColor=white" />
   </a>
-  <a href="https://www.sankavollerei.com/download/anime">
+  <a href="https://www.sankavollerei.web.id/download/anime">
     <img src="https://img.shields.io/badge/📥_API-Downloader-63A4FF?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 </p>
@@ -241,14 +241,14 @@ Login untuk menyimpan history tontonan Anda.
 </div>
 
 <p align="center">
-  <a href="https://www.sankavollerei.com/download/anime">
+  <a href="https://www.sankavollerei.web.id/download/anime">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Download+Your+Favorite;Anime+%26+instantly;Visit+Downloader+anime" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.sankavollerei.com/download/anime">
-    <img src="https://img.shields.io/badge/🌟_Visit-https://www.sankavollerei.com/download/anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.sankavollerei.web.id/download/anime">
+    <img src="https://img.shields.io/badge/🌟_Visit-https://www.sankavollerei.web.id/download/anime-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -267,7 +267,7 @@ Login untuk menyimpan history tontonan Anda.
 
 Access our REST API for anime downloads and integration
 
-**🔗 API Endpoint:** [sankavollerei.com/download/anime](https://www.sankavollerei.com/download/anime)
+**🔗 API Endpoint:** [sankavollerei.web.id/download/anime](https://www.sankavollerei.web.id/download/anime)
 
 </div>
 
@@ -284,14 +284,14 @@ Access our REST API for anime downloads and integration
 </div>
 
 <p align="center">
-  <a href="https://sankavollerei.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Explore+More+Projects;Anime+Tools+%26+API;Visit+SankaVollerei.com" alt="Typing SVG" />
+  <a href="https://sankavollerei.web.id">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=63A4FF&center=true&vCenter=true&width=500&lines=Explore+More+Projects;Anime+Tools+%26+API;Visit+sankavollerei.web.id" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sankavollerei.com">
-    <img src="https://img.shields.io/badge/🌟_Visit-sankavollerei.com-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://sankavollerei.web.id">
+    <img src="https://img.shields.io/badge/🌟_Visit-sankavollerei.web.id-63A4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -351,7 +351,7 @@ Support the development and server costs:
   <a href="https://t.me/OnlySankaaa">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://sankanime.com/contactcs">
+  <a href="https://sankanime.web.id/contactcs">
     <img src="https://img.shields.io/badge/Contact_Me-%232B2A3C.svg?style=for-the-badge" alt="Contact Me" />
   </a>
 </p>
@@ -375,8 +375,8 @@ Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari su
 <div align="center">
   <h2>🎉 Start Watching Now! / Mulai Menonton Sekarang!</h2>
   
-  <a href="https://link.sankanime.com">
-    <img src="https://img.shields.io/badge/🌐_VISIT-SANKANIME.COM-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://link.sankanime.web.id">
+    <img src="https://img.shields.io/badge/🌐_VISIT-sankanime.web.id-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
