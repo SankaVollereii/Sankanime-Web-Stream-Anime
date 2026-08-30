@@ -16,35 +16,35 @@
 
 ---
 
-<h3 align="center">🌟 Sankanime is a Free anime streaming website which you can watch English or Indonesian Subbed and Dubbed Anime online</h3>
+  <h3 align="center">🌟 Sankanime is a Free anime streaming website which you can watch English or Indonesian Subbed and Dubbed Anime online</h3>
 
 ---
 
 ## 🌐 Quick Links / Link Cepat
 
-<p align="center">
+  < p align = "center" >
   <a href="https://link.sankanime.web.id">
     <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime-FF6B6B?style=for-the-badge" />
   </a>
   <a href="https://v4.sankanime.web.id/">
     <img src="https://img.shields.io/badge/🐉_Drachin_Site-SankaFlix-4ECDC4?style=for-the-badge" />
   </a>
-</p>
+</p >
 
-<p align="center">
-  <a href="https://sfile.co/xM4D247s6ke">
-    <img src="https://img.shields.io/badge/📱_Download-Android_APK-00D9FF?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://www.sankavollerei.web.id/download/anime">
-    <img src="https://img.shields.io/badge/📥_API-Downloader-63A4FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://sfile.co/xM4D247s6ke">
+      <img src="https://img.shields.io/badge/📱_Download-Android_APK-00D9FF?style=for-the-badge&logo=android&logoColor=white" />
+    </a>
+    <a href="https://www.sankavollerei.web.id/download/anime">
+      <img src="https://img.shields.io/badge/📥_API-Downloader-63A4FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </a>
+  </p>
 
 ---
 
 ## 📸 Screenshots / Tangkapan Layar
 
-<div align="center">
+  < div align = "center" >
   <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/homepage.webp" alt="Home Page" width="100%" >
 </div>
 
@@ -85,156 +85,156 @@
 
 ## ✨ Features / Fitur
 
-<div align="center">
+  < div align = "center" >
 
 ### 🇬🇧 English Features
 
-</div>
+</div >
 
-- 🎬 **Extensive Anime Library** - Thousands of anime titles at your fingertips
-- 🌍 **Multi-Language Support** - Watch in English or Indonesian subtitles/dubs
-- 📱 **Mobile Friendly** - Stream seamlessly on any device
-- 💯 **100% Free** - No subscription fees, no hidden costs
-- ⚡ **Fast Streaming** - High-quality video with minimal buffering
-- 🆕 **Regular Updates** - Latest episodes added as soon as they air
-- 🔍 **Easy Search** - Find your favorite anime quickly
-- 💾 **Download Support** - Save episodes for offline viewing
+  - 🎬 ** Extensive Anime Library ** - Thousands of anime titles at your fingertips
+    - 🌍 ** Multi - Language Support ** - Watch in English or Indonesian subtitles / dubs
+      - 📱 ** Mobile Friendly ** - Stream seamlessly on any device
+        - 💯 ** 100 % Free ** - No subscription fees, no hidden costs
+          - ⚡ ** Fast Streaming ** - High - quality video with minimal buffering
+            - 🆕 ** Regular Updates ** - Latest episodes added as soon as they air
+              - 🔍 ** Easy Search ** - Find your favorite anime quickly
+                - 💾 ** Download Support ** - Save episodes for offline viewing
 
-<div align="center">
+                  < div align = "center" >
 
 ### 🇮🇩 Fitur Bahasa Indonesia
 
-</div>
+</div >
 
-- 🎬 **Koleksi Anime Lengkap** - Ribuan judul anime dalam genggaman Anda
-- 🌍 **Dukungan Multi-Bahasa** - Tonton dengan subtitle/dubbing Inggris atau Indonesia
-- 📱 **Ramah Mobile** - Streaming lancar di semua perangkat
-- 💯 **100% Gratis** - Tanpa biaya berlangganan, tanpa biaya tersembunyi
-- ⚡ **Streaming Cepat** - Video berkualitas tinggi dengan buffering minimal
-- 🆕 **Update Rutin** - Episode terbaru ditambahkan segera setelah tayang
-- 🔍 **Pencarian Mudah** - Temukan anime favorit Anda dengan cepat
-- 💾 **Dukungan Download** - Simpan episode untuk ditonton offline
+  - 🎬 ** Koleksi Anime Lengkap ** - Ribuan judul anime dalam genggaman Anda
+    - 🌍 ** Dukungan Multi - Bahasa ** - Tonton dengan subtitle / dubbing Inggris atau Indonesia
+      - 📱 ** Ramah Mobile ** - Streaming lancar di semua perangkat
+        - 💯 ** 100 % Gratis ** - Tanpa biaya berlangganan, tanpa biaya tersembunyi
+          - ⚡ ** Streaming Cepat ** - Video berkualitas tinggi dengan buffering minimal
+            - 🆕 ** Update Rutin ** - Episode terbaru ditambahkan segera setelah tayang
+              - 🔍 ** Pencarian Mudah ** - Temukan anime favorit Anda dengan cepat
+                - 💾 ** Dukungan Download ** - Simpan episode untuk ditonton offline
 
 ---
 
 ## 📱 Installation Guide / Panduan Instalasi
 
-<div align="center">
+  < div align = "center" >
 
 ### 🇬🇧 Android APK Installation
 
-</div>
+</div >
 
-1. Click **[Download APK](https://sfile.co/xM4D247s6ke)**
-2. Allow installation from unknown sources in your device settings
+  1. Click ** [Download APK](https://sfile.co/xM4D247s6ke)**
+    2. Allow installation from unknown sources in your device settings
 3. Open the downloaded APK file
 4. Follow the installation prompts
 5. Launch Sankanime and start watching!
 
-<div align="center">
+  < div align = "center" >
 
 ### 🇮🇩 Instalasi APK Android
 
-</div>
+</div >
 
-1. Klik **[Download APK](https://sfile.co/xM4D247s6ke)**
-2. Izinkan instalasi dari sumber tidak dikenal di pengaturan perangkat
+    1. Klik ** [Download APK](https://sfile.co/xM4D247s6ke)**
+      2. Izinkan instalasi dari sumber tidak dikenal di pengaturan perangkat
 3. Buka file APK yang telah diunduh
 4. Ikuti petunjuk instalasi
 5. Buka Sankanime dan mulai menonton!
 
 ---
 
-## 🎯 Why Choose Sankanime? / Mengapa Memilih Sankanime?
+## 🎯 Why Choose Sankanime ? / Mengapa Memilih Sankanime?
 
-<div align="center">
+      < div align = "center" >
 
 ### 🇬🇧 English
 
-</div>
+</div >
 
-**🛡️ No Ads Interruption**  
-100% ad-free! Enjoy anime without any annoying ads interrupting your viewing experience.
+**🛡️ No Ads Interruption **
+    100 % ad - free! Enjoy anime without any annoying ads interrupting your viewing experience.
 
-**⚡ 1080p HD Support**  
-High-quality 1080p HD video for the best viewing experience.
+**⚡ 1080p HD Support **
+    High - quality 1080p HD video for the best viewing experience.
 
-**⏩ Auto Skip Intro**  
-Automatically skip intros to go straight to the main content.
+**⏩ Auto Skip Intro **
+  Automatically skip intros to go straight to the main content.
 
-**🌐 5-10 Server Options**  
-Super fast servers with 5-8 alternative server choices.
+**🌐 5 - 10 Server Options **
+  Super fast servers with 5 - 8 alternative server choices.
 
-**📚 Complete Anime Collection**  
-Anime collection & donghua from 1917 to present.
+**📚 Complete Anime Collection **
+  Anime collection & donghua from 1917 to present.
 
-**🌍 Multi Subtitle**  
-Subtitles in multiple languages: Indonesian, English, and more.
+**🌍 Multi Subtitle **
+  Subtitles in multiple languages: Indonesian, English, and more.
 
-**📝 Custom Subtitle Upload**  
-Upload your own custom subtitle files for a more personalized viewing experience.
+**📝 Custom Subtitle Upload **
+  Upload your own custom subtitle files for a more personalized viewing experience.
 
-**🎬 Complete Features**  
-Comics, soundtracks, trailers, character info, and voice actor details available for every anime.
+**🎬 Complete Features **
+  Comics, soundtracks, trailers, character info, and voice actor details available for every anime.
 
-**📅 Monthly Release Schedule**  
-Complete monthly release schedule with anime information coming soon.
+**📅 Monthly Release Schedule **
+  Complete monthly release schedule with anime information coming soon.
 
-**👤 Login & Save History**  
-Login to save your viewing history.
+**👤 Login & Save History **
+  Login to save your viewing history.
 
 ---
 
-<div align="center">
+  <div align="center">
 
-### 🇮🇩 Bahasa Indonesia
+    ### 🇮🇩 Bahasa Indonesia
 
-</div>
+  </div>
 
-**🛡️ Tanpa Iklan Sama Sekali**  
-100% bebas iklan! Nikmati anime tanpa gangguan iklan sedikit pun.
+  **🛡️ Tanpa Iklan Sama Sekali **
+    100 % bebas iklan! Nikmati anime tanpa gangguan iklan sedikit pun.
 
-**⚡ Support 1080p HD**  
-Kualitas video HD 1080p untuk pengalaman menonton terbaik.
+**⚡ Support 1080p HD **
+  Kualitas video HD 1080p untuk pengalaman menonton terbaik.
 
-**⏩ Auto Skip Intro**  
-Skip intro otomatis untuk langsung ke konten utama.
+**⏩ Auto Skip Intro **
+  Skip intro otomatis untuk langsung ke konten utama.
 
-**🌐 Server Wushhh 5-8 Pilihan**  
-Server super cepat dengan 5-8 pilihan server alternatif.
+**🌐 Server Wushhh 5 - 8 Pilihan **
+  Server super cepat dengan 5 - 8 pilihan server alternatif.
 
-**📚 Anime Terlengkap**  
-Koleksi anime & donghua dari tahun 1917 sampai sekarang.
+**📚 Anime Terlengkap **
+  Koleksi anime & donghua dari tahun 1917 sampai sekarang.
 
-**🌍 Multi Subtitle**  
-Subtitle berbagai bahasa: Indonesia, English, dan lainnya.
+**🌍 Multi Subtitle **
+  Subtitle berbagai bahasa: Indonesia, English, dan lainnya.
 
-**📝 Custom Subtitle Sesukamu**  
-Unggah file subtitle kustom Anda sendiri untuk pengalaman menonton yang lebih personal.
+**📝 Custom Subtitle Sesukamu **
+  Unggah file subtitle kustom Anda sendiri untuk pengalaman menonton yang lebih personal.
 
-**🎬 Fitur Lengkap**  
-Tersedia Comic, soundtrack, trailer, informasi karakter dan pengisi suara untuk setiap anime.
+**🎬 Fitur Lengkap **
+  Tersedia Comic, soundtrack, trailer, informasi karakter dan pengisi suara untuk setiap anime.
 
-**📅 Jadwal Rilis 1 Bulan**  
-Jadwal rilis anime lengkap untuk 1 bulan penuh dan informasi anime yang akan datang.
+**📅 Jadwal Rilis 1 Bulan **
+  Jadwal rilis anime lengkap untuk 1 bulan penuh dan informasi anime yang akan datang.
 
-**👤 Login & Save History**  
-Login untuk menyimpan history tontonan Anda.
+**👤 Login & Save History **
+  Login untuk menyimpan history tontonan Anda.
 
 ---
 
 ## 🌟 Popular Genres / Genre Populer
 
-<div align="center">
+  < div align = "center" >
 
 | Action 🔥 | Romance 💖 | Comedy 😂 | Drama 🎭 |
-|:---------:|:----------:|:---------:|:--------:|
-| **Fantasy** 🗡️ | **Magic** 🔮 | **Mecha** 🤖 | **Horror** 🧟 |
-| **School** 🏫 | **Shounen** ⚔️ | **Shoujo** 💐 | **Game** 🎮 |
+|: ---------:|: ----------:|: ---------:|: --------:|
+| ** Fantasy ** 🗡️ | ** Magic ** 🔮 | ** Mecha ** 🤖 | ** Horror ** 🧟 |
+| ** School ** 🏫 | ** Shounen ** ⚔️ | ** Shoujo ** 💐 | ** Game ** 🎮 |
 
-</div>
+</div >
 
----
+  ---
 
 <div align="center">
   <h2>⬇️ Downloader Anime</h2>
@@ -261,21 +261,21 @@ Login untuk menyimpan history tontonan Anda.
 
 ## 🛠️ API Access / Akses API
 
-<div align="center">
+  < div align = "center" >
 
 ### For Developers / Untuk Developer
 
 Access our REST API for anime downloads and integration
 
-**🔗 API Endpoint:** [sankavollerei.web.id/download/anime](https://www.sankavollerei.web.id/download/anime)
+  **🔗 API Endpoint:** [sankavollerei.web.id / download / anime](https://www.sankavollerei.web.id/download/anime)
 
-</div>
+</div >
 
-**Perfect for:**
-- ✅ Automated anime downloads / Unduhan anime otomatis
-- ✅ Third-party integrations / Integrasi pihak ketiga
-- ✅ Custom anime applications / Aplikasi anime kustom
-- ✅ Batch processing / Pemrosesan batch
+** Perfect for:**
+  - ✅ Automated anime downloads / Unduhan anime otomatis
+    - ✅ Third - party integrations / Integrasi pihak ketiga
+      - ✅ Custom anime applications / Aplikasi anime kustom
+        - ✅ Batch processing / Pemrosesan batch
 
 ---
 
@@ -304,33 +304,33 @@ Access our REST API for anime downloads and integration
 
 ## 📞 Support / Dukungan
 
-<div align="center">
+  < div align = "center" >
 
-### 🇬🇧 Need Help?
-If you encounter any issues or have questions, feel free to reach out through our website contact form.
+### 🇬🇧 Need Help ?
+  If you encounter any issues or have questions, feel free to reach out through our website contact form.
 
-### 🇮🇩 Butuh Bantuan?
-Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui formulir kontak di website kami.
+### 🇮🇩 Butuh Bantuan ?
+  Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui formulir kontak di website kami.
 
 ### ☕ Donate me
 Support the development and server costs:
 
 <p align="center">
-  <a href="https://trakteer.id/Sankanime/gift">
+  <a href="https://sankanime.web.id/donatur">
     <img src="https://img.shields.io/badge/Donate-Support_Development-FF6B6B?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
 
-</div>
+</div >
 
----
+  ---
 
 ## 📱 Connect With Us / Hubungi Kami
 
-<div align="center">
+  < div align = "center" >
   <h3>🔔 Follow us for updates and anime recommendations!</h3>
   <h3>🔔 Follow kami untuk update dan rekomendasi anime!</h3>
-</div>
+</div >
 
 <p align="center">
   <a href="https://www.whatsapp.com/channel/0029Vb7fWF61CYoQMRaXBM1X">
@@ -360,17 +360,17 @@ Support the development and server costs:
 
 ## ⚠️ Disclaimer / Penafian
 
-<div align="center">
+  < div align = "center" >
 
 ### 🇬🇧 English
-Sankanime is a free anime streaming platform. All content is sourced from publicly available resources. We respect copyright and will remove any content upon request from legitimate copyright holders.
+Sankanime is a free anime streaming platform.All content is sourced from publicly available resources.We respect copyright and will remove any content upon request from legitimate copyright holders.
 
 ### 🇮🇩 Bahasa Indonesia
-Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari sumber daya yang tersedia untuk umum. Kami menghormati hak cipta dan akan menghapus konten apa pun atas permintaan dari pemegang hak cipta yang sah.
+Sankanime adalah platform streaming anime gratis.Semua konten bersumber dari sumber daya yang tersedia untuk umum.Kami menghormati hak cipta dan akan menghapus konten apa pun atas permintaan dari pemegang hak cipta yang sah.
 
-</div>
+</div >
 
----
+  ---
 
 <div align="center">
   <h2>🎉 Start Watching Now! / Mulai Menonton Sekarang!</h2>
@@ -398,26 +398,26 @@ Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari su
 
 ---
 
-<div align="center">
-  <h2>💝 Show Some Love / Berikan Dukungan</h2>
-  <p>⭐ Star this repository if you like Sankanime!</p>
-  <p>⭐ Beri bintang repository ini jika Anda suka Sankanime!</p>
-</div>
+  <div align="center">
+    <h2>💝 Show Some Love / Berikan Dukungan</h2>
+    <p>⭐ Star this repository if you like Sankanime!</p>
+    <p>⭐ Beri bintang repository ini jika Anda suka Sankanime!</p>
+  </div>
 
 ---
 
 ## 📜 License / Lisensi
 
-<div align="center">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
-  </a>
-</div>
+  < div align = "center" >
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
+    </a>
+</div >
 
-<p align="center">
-  This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.<br/>
-  Proyek ini dilisensikan di bawah Lisensi MIT - lihat file <a href="LICENSE">LICENSE</a> untuk detailnya.
-</p>
+  <p align="center">
+    This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.<br />
+    Proyek ini dilisensikan di bawah Lisensi MIT - lihat file <a href="LICENSE">LICENSE</a> untuk detailnya.
+  </p>
 
 ---
 
