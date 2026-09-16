@@ -100,7 +100,7 @@
               - 🔍 ** Easy Search ** - Find your favorite anime quickly
                 - 💾 ** Download Support ** - Save episodes for offline viewing
 
-                  < div align = "center" >
+                  <div align="center" >
 
 ### 🇮🇩 Fitur Bahasa Indonesia
 
