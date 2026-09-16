@@ -44,7 +44,7 @@
 
 ## 📸 Screenshots / Tangkapan Layar
 
-  < div align = "center" >
+  <div align="center" >
   <img src="https://pub-0004a3bc0e90465b9a343086f52f6960.r2.dev/homepage.webp" alt="Home Page" width="100%" >
 </div>
 
@@ -85,7 +85,7 @@
 
 ## ✨ Features / Fitur
 
-  < div align = "center" >
+  <div align="center" >
 
 ### 🇬🇧 English Features
 
@@ -119,7 +119,7 @@
 
 ## 📱 Installation Guide / Panduan Instalasi
 
-  < div align = "center" >
+  <div align="center" >
 
 ### 🇬🇧 Android APK Installation
 
@@ -131,7 +131,7 @@
 4. Follow the installation prompts
 5. Launch Sankanime and start watching!
 
-  < div align = "center" >
+  <div align="center" >
 
 ### 🇮🇩 Instalasi APK Android
 
@@ -225,7 +225,7 @@
 
 ## 🌟 Popular Genres / Genre Populer
 
-  < div align = "center" >
+  <div align="center" >
 
 | Action 🔥 | Romance 💖 | Comedy 😂 | Drama 🎭 |
 |: ---------:|: ----------:|: ---------:|: --------:|
@@ -261,7 +261,7 @@
 
 ## 🛠️ API Access / Akses API
 
-  < div align = "center" >
+  <div align="center" >
 
 ### For Developers / Untuk Developer
 
@@ -304,7 +304,7 @@ Access our REST API for anime downloads and integration
 
 ## 📞 Support / Dukungan
 
-  < div align = "center" >
+  <div align="center" >
 
 ### 🇬🇧 Need Help ?
   If you encounter any issues or have questions, feel free to reach out through our website contact form.
@@ -327,7 +327,7 @@ Support the development and server costs:
 
 ## 📱 Connect With Us / Hubungi Kami
 
-  < div align = "center" >
+  <div align="center" >
   <h3>🔔 Follow us for updates and anime recommendations!</h3>
   <h3>🔔 Follow kami untuk update dan rekomendasi anime!</h3>
 </div >
@@ -360,7 +360,7 @@ Support the development and server costs:
 
 ## ⚠️ Disclaimer / Penafian
 
-  < div align = "center" >
+  <div align="center" >
 
 ### 🇬🇧 English
 Sankanime is a free anime streaming platform.All content is sourced from publicly available resources.We respect copyright and will remove any content upon request from legitimate copyright holders.
