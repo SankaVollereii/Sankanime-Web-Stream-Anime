@@ -147,7 +147,7 @@
 
 ## 🎯 Why Choose Sankanime ? / Mengapa Memilih Sankanime?
 
-      < div align = "center" >
+      <div align="center" >
 
 ### 🇬🇧 English
 
