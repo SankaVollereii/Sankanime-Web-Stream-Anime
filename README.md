@@ -22,7 +22,7 @@
 
 ## 🌐 Quick Links / Link Cepat
 
-  < p align = "center" >
+  < p align="center" >
   <a href="https://link.sankanime.web.id">
     <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime-FF6B6B?style=for-the-badge" />
   </a>
